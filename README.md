@@ -1,16 +1,22 @@
-### Hi there 👋
+**Hi 👋 I'm Zakariaa Oulhafiane, and I am 29 years old.**  
+**I am passionate about Linux and open-source technologies.**
 
+This is my story of discovering this beautiful world of technology:
+
+- 🔭 **2008-2012** : I watched a movie called Hackers, and that was the beginning of everything, after watching it I googled how to hack an MSN/Skyblog, after few weeks I was able to understand a method named **Fake Page** that you have to create a mirror of the target website then add a script to it to send you The Email/Pass and then send it to whoever you want to steal their credentials, I was very happy by practicing this method with my best friends and showing them the method (**Note: I didn't steal anyone's password**), then after a while i started to learn **how can i hack a computer ?** then i found out what **Trojans** could do, that time it was two famous rats called **PRORAT and Bifrost**, i tried them both in the same network and everything works fine, i tried them with my friend's computer not in the same network, it failed, then i discovered something called **Reverse Connection** to let the rat when loaded in the vicim machine to start the connection to my computer and also i was required to open a port on my home router, and it works after several days of trying, after i asked myself a question : how can i hide these trojans from **Antivirus**, then i started the new journey of using **Hex Editor** to check what are the bytes captured by the antivirus, then changing them, after a while **i joined a Hacking team** and we did bad things like changing the index of a hacked site by our index.html Saying Hacked By ... and registering it in in **zone-h.org** 😅.  
+  I remember how excited I was during those years and how many nights I didn't sleep discovering **exploits** posted on **milw0rm.com** and trying to figure them out without any programming knowledge 🤔.
 <!--
-**oulhafiane/oulhafiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
