@@ -28,7 +28,7 @@ This is my story of discovering this beautiful world of technology:
   I joined the school after a one month of competition called [POOL](https://github.com/oulhafiane/1337-42-Pool), i got accepted, that's when everything changed 180°, from my mindset to my skills.  
   I discovered that I didn't know anything about programming (a metaphor), especially the C language 🤣🤣.  
   I choose the **System/Unix/Shells** branch because if you remember at the beginning the question I was asking myself how can I create my own shell 😄.  
-  After 8 months of studying **Linux Commands/Shell/FileSystem/System Calls/Terminal Capabilities/Deep C Language** i made successfully two shells [Minishell](https://github.com/oulhafiane/1337-42-minishell) , [21sh](https://github.com/oulhafiane/1337-42-21sh), and contributed to [42sh](https://github.com/karimstm/42sh).  
+  After 8 months of studying **Linux Commands/Shell/FileSystem/System Calls/Terminal Capabilities/Deep C Language** I made successfully two shells [Minishell](https://github.com/oulhafiane/1337-42-minishell) , [21sh](https://github.com/oulhafiane/1337-42-21sh), and contributed to [42sh](https://github.com/karimstm/42sh).  
   
   **Projects** :   
     - [POOL: The “pool” is a 4-week immersion in the coding world. Just like a marathon runner, you will take a deep dive.](https://github.com/oulhafiane/1337-42-Pool)
