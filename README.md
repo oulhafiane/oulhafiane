@@ -25,7 +25,7 @@ This is my story of discovering this beautiful world of technology:
    - Creation of web and mobile applications (PHP, MySql, JAVA (Android), React-Native).  
 
 - 💡 **2018-2019** : God blessed me with the arrival of my sweet princess Amira 👶🏻, and a new coding school opened in our country part of [42Network](https://twitter.com/42Network) called [1337](https://twitter.com/1337FIL).  
-  I joined the school after a one month of competition called [POOL](https://github.com/oulhafiane/1337-42-Pool), i got accepted, that's when everything changed 180°, from my mindset to my skills.  
+  I joined the school after a one month of competition called [POOL](https://github.com/oulhafiane/1337-42-Pool), I got accepted, that's when everything changed 180°, from my mindset to my skills.  
   I discovered that I didn't know anything about programming (a metaphor), especially the C language 🤣🤣.  
   I choose the **System/Unix/Shells** branch because if you remember at the beginning the question I was asking myself how can I create my own shell 😄.  
   After 8 months of studying **Linux Commands/Shell/FileSystem/System Calls/Terminal Capabilities/Deep C Language** I successfully made two shells [Minishell](https://github.com/oulhafiane/1337-42-minishell) , [21sh](https://github.com/oulhafiane/1337-42-21sh), and contributed to [42sh](https://github.com/karimstm/42sh).  
@@ -45,7 +45,7 @@ This is my story of discovering this beautiful world of technology:
     - [42sh: A complete shell, which includes the key features a normal shell would have](https://github.com/karimstm/42sh)
 
 - 📈 **2019-2020** : I reached the internship project in my curriculum, then I joined [UM6P](https://twitter.com/UM6P_officiel) for a 6-month internship.  
-    Here is a [video](https://www.youtube.com/watch?v=MoI36nmzWmo&feature=youtu.be) I explain the project I worked on.  
+    Here is a [video](https://www.youtube.com/watch?v=MoI36nmzWmo&feature=youtu.be) explaining the project I worked on.  
   
   **About The Project** :
     We made a Prototype for a platform used to bring scientists and their research together like a blog for them to post their idea, and give feedback to others,
@@ -56,7 +56,7 @@ This is my story of discovering this beautiful world of technology:
     - [Data & Research Frontend](https://github.com/oulhafiane/Data-Research-Platform/)
     - [Data & Research Video](https://www.youtube.com/watch?v=MoI36nmzWmo&feature=youtu.be)
 
-- 😷 **2020(Corona)** : The school was closed for 7 months, the store of my father and his partner had gone bankrupt, and they were about to sell it, then I bought his partner's share (50%) [SAZALUM](https://charika.ma/societe-sazalum-493799), then after the curfew (3 months), I built and relaunched the shop with my father, and it was done successfully 🤑.
+- 😷 **2020(Corona)** : The school was closed for 7 months, the shop of my father and his partner had gone bankrupt, and they were about to sell it, then I bought his partner's share (50%) [SAZALUM](https://charika.ma/societe-sazalum-493799), then after the curfew (3 months), I built and relaunched the shop with my father, and it was done successfully 🤑.
 
 - ☀️ **2021-Current Time** : The school reopened, I came back full of energy to discover the world of **Kernel/FileSystem/Drivers**, that's why I choose two branches to work on in my curriculum: **Kernel Branch** and **DevOps Branch**, devops for me is a new world, I just discovered it and I want to learn a lot from this world, so far I discovered the great tool that I really liked **Docker** because it uses something called **cgroups/namespaces** introduced in **kernel v2.6** and I want to learn a lot about those features, I also learned a bit about tools: **Kubernetes**, **Vagrant** , **Ansible**, and I'm on my way to discover everything in this world 🌎.
 
