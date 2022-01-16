@@ -38,6 +38,9 @@ This is my story of discovering this beautiful world of technology:
     - [PHP Pool: will allow you to access basic web technologies](https://github.com/oulhafiane/1337-42-PHP-Rush00)
     - [Minishell: you will get to the core of the Unix system and explore an important part of this system’s API](https://github.com/oulhafiane/1337-42-minishell)
     - [FT_SELECT: Dealing with TERMCAPS](https://github.com/oulhafiane/1337-42-ft_select)
+    - [WasteToResources: A platform for connecting small sellers of waste (Restaurant, Coffee shop, Garage, Normal Person, ...) with Buyers who need this waste to be recycled (Recycling companies).](https://github.com/oulhafiane/WasteToResources)
+    - [WtrBlockChain: A small crypto coin for testing purpose has the functionality of creating and bidding on an auction](https://github.com/oulhafiane/WtrBlockChain)
+    - [WtrCoin: a Crypto Coin using Private Blockchain Hyperledger Sawtooth Transaction Processor : A user can create an auction from a starting price and a deadline, others can bid on it.](https://github.com/oulhafiane/WtrCoin)
     - [21sh: Real functionnal shell](https://github.com/oulhafiane/1337-42-21sh)
     - [42sh: A complete shell, which includes the key features a normal shell would have](https://github.com/karimstm/42sh)
 <!--
