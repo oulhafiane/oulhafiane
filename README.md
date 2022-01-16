@@ -8,7 +8,7 @@ This is my story of discovering this beautiful world of technology:
 
 - 🌱 **2012-2015** : After the past years, I had a lot of difficulty using tools and understanding exploits, so I decided that I had to learn how to create a program or **how can I create my own shell** (because I was using other people's shells **r57, c99** and a lot of them are injected), so I started with PHP, because that's the language I saw in all the scripts I use for hacking 😄, I learned the basics of programming (if/else, for, while, functions), then I joined a programming school, we learned C and basic algorithms by doing a lot of exercises and i was good at everything, then JAVA, but I quit school after a while, to be honest with you I was enthusiastic by hacking, so i left to focus on it , but this time with programming skills, I was able to create a lot of tools, to better understand the exploits, and linux commands.
 
-- 🤔 **2015-2017** : After years of messing around, I decided to go back to school and build a career, and I was good at programming but really bad at design (user interface) 🤣, I got first grade in both years of study, I learned C, C#, object-oriented programming (OOP), event-driven programming, SQL Server, ASP.  
+- 🤔 **2015-2017** : After years of messing around, I decided to go back to school and build a career, and I was good at programming but really bad at design (user interface) 🤣, I got first grade in both years of study, I learned C, C#, object-oriented programming (OOP), event-driven programming, SQL Server, ASP.NET.  
 
   **Projects** : 
    - [SQL Server 1](https://github.com/oulhafiane/my-reports/blob/master/Syst%C3%A8me-de-Gestion-de-Bases-de-Donn%C3%A9es-Relationnelles-1.pdf).  
