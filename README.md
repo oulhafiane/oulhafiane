@@ -44,7 +44,7 @@ This is my story of discovering this beautiful world of technology:
     - [21sh: Real functional shell](https://github.com/oulhafiane/1337-42-21sh)
     - [42sh: A complete shell, which includes the key features a normal shell would have](https://github.com/karimstm/42sh)
 
-- 📈 **2019-2020** : I reached the internship project in my curriculum, then I joined UM6P for a 6-month internship.  
+- 📈 **2019-2020** : I reached the internship project in my curriculum, then I joined [UM6P](https://twitter.com/UM6P_officiel) for a 6-month internship.  
     Here is a [video](https://www.youtube.com/watch?v=MoI36nmzWmo&feature=youtu.be) I explain the project I worked on.  
   
   **About The Project** :
