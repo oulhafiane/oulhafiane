@@ -3,7 +3,7 @@
 
 This is my story of discovering this beautiful world of technology:
 
-- 🔭 **2008-2012** : I watched a movie called Hackers, and that was the beginning of everything, after watching it I googled how to hack an MSN/Skyblog, after few weeks I was able to understand a method named **Fake Page** that you have to create a mirror of the target website then add a script to it to send you The Email/Pass and then send it to whoever you want to steal their credentials, I was very happy by practicing this method with my best friends and showing them the method (**Note: I didn't steal anyone's password**), then after a while I started to learn **how can i hack a computer ?** then I found out what **Trojans** could do, that time it was two famous rats called **PRORAT and Bifrost**, I tried them both in the same network and everything works fine, I tried them with my friend's computer not in the same network, it failed, then I discovered something called **Reverse Connection** to let the rat when loaded in the victim machine to start the connection to my computer and also I was required to open a port on my home router, and it works after several days of trying, after i asked myself a question : how can I hide these trojans from **Antivirus**, then I started the new journey of using **Hex Editor** to check what are the bytes captured by the antivirus, then changing them, after a while **I joined a Hacking team** and we did bad things like changing the index of a hacked site by our index.html Saying Hacked By ... and registering it in in **zone-h.org** 😅.  
+- 🔭 **2008-2012** : I watched a movie called Hackers, and that was the beginning of everything, after watching it I googled how to hack an MSN/Skyblog, after few weeks I was able to understand a method named **Fake Page** that you have to create a mirror of the target website then add a script to it to send you The Email/Pass and then send it to whoever you want to steal their credentials, I was very happy by practicing this method with my best friends and showing them the method (**Note: I didn't steal anyone's password**), then after a while I started to learn **how can i hack a computer ?** then I found out what **Trojans** could do, that time it was two famous rats called **PRORAT and Bifrost**, I tried them both in the same network and everything works fine, I tried them with my friend's computer not in the same network, it failed, then I discovered something called **Reverse Connection** to let the rat when loaded in the victim machine to start the connection to my computer and also I was required to open a port on my home router, and it works after several days of trying, after I asked myself a question : how can I hide these trojans from **Antivirus**, then I started the new journey of using **Hex Editor** to check what are the bytes captured by the antivirus, then changing them, after a while **I joined a Hacking team** and we did bad things like changing the index of a hacked site by our index.html Saying Hacked By ... and registering it in in **zone-h.org** 😅.  
   I remember how excited I was during those years and how many nights I didn't sleep discovering **exploits** posted on **milw0rm.com** and trying to figure them out without any programming knowledge 🤔.
 
 - 🌱 **2012-2015** : After the past years, I had a lot of difficulty using tools and understanding exploits, so I decided that I had to learn how to create a program or **how can I create my own shell** (because I was using other people's shells **r57, c99** and a lot of them are injected), so I started with PHP, because that's the language I saw in all the scripts I use for hacking 😄, I learned the basics of programming (if/else, for, while, functions), then I joined a programming school, we learned C and basic algorithms by doing a lot of exercises and i was good at everything, then JAVA, but I quit school after a while, to be honest with you I was enthusiastic by hacking, so i left to focus on it , but this time with programming skills, I was able to create a lot of tools, to better understand the exploits, and linux commands.
@@ -43,12 +43,25 @@ This is my story of discovering this beautiful world of technology:
     - [WtrCoin: a Crypto Coin using Private Blockchain Hyperledger Sawtooth Transaction Processor : A user can create an auction from a starting price and a deadline, others can bid on it.](https://github.com/oulhafiane/WtrCoin)
     - [21sh: Real functional shell](https://github.com/oulhafiane/1337-42-21sh)
     - [42sh: A complete shell, which includes the key features a normal shell would have](https://github.com/karimstm/42sh)
-<!--
-- 📈 **2019** :   
+
+- 📈 **2019-2020** : I reached the internship project in my curriculum, then I joined UM6P for a 6-month internship.  
+    Here is a [video](https://www.youtube.com/watch?v=MoI36nmzWmo&feature=youtu.be) I explain the project I worked on.  
+  
+  **About The Project** :
+    We made a Prototype for a platform used to bring scientists and their research together like a blog for them to post their idea, and give feedback to others,
+    and also it helps them in their research by giving them necessary tools to collect, cleanse, visualize and analyze data.  
+
+  ***Links*** : 
+    - [Data & Research Backend](https://github.com/oulhafiane/Data-Research-Platform-Front-end)
+    - [Data & Research Frontend](https://github.com/oulhafiane/Data-Research-Platform/)
+    - [Data & Research Video](https://www.youtube.com/watch?v=MoI36nmzWmo&feature=youtu.be)
+
+- 😷 **2020(Corona)** : The school was closed for 7 months, the store of my father and his partner had gone bankrupt, and they were about to sell it, then I bought his partner's share (50%) [SAZALUM](https://charika.ma/societe-sazalum-493799), then after the curfew (3 months), I built and relaunched the shop with my father, and it was done successfully 🤑.
+
+- ☀️ **2021-Current Time** : The school reopened, I came back full of energy to discover the world of **Kernel/FileSystem/Drivers**, that's why I choose two branches to work on in my curriculum: **Kernel Branch** and **DevOps Branch**, devops for me is a new world, I just discovered it and I want to learn a lot from this world, so far I discovered the great tool that I really liked **Docker** because it uses something called **cgroups/namespaces** introduced in **kernel v2.6** and I want to learn a lot about those features, I also learned a bit about tools: **Kubernetes**, **Vagrant** , **Ansible**, and I'm on my way to discover everything in this world 🌎.
 
   **Projects** :   
-
-- 📈 **2021-Now** :   
-
-  **Projects** :   
--->
+    - [C++ Pool](https://github.com/oulhafiane/1337_42_CPP_POOL)
+    - [Ft_Linux: Make your own linux distribution](https://github.com/oulhafiane/1337-42-ft_linux)
+    - [Little-Penguin-Kernel-Modules: The start of a series of challenges inspired by Eudyptula. You will get acquainted with many points of Kernel development](https://github.com/oulhafiane/1337_42_little-penguin-1-kernel-modules)
+    - [Inception-of-Things-Kubernetes: You will have to set up small clusters and discover the mechanics of continuous integration. At the end of this project you will be able to have a working cluster in docker and have a usable continuous integration for your applications.](https://github.com/oulhafiane/1337_42_Inception-of-Things-Kubernetes)
