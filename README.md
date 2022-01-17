@@ -60,8 +60,10 @@ This is my story of discovering this beautiful world of technology:
 
 - ☀️ **2021-Current Time** : The school reopened, I came back full of energy to discover the world of **Kernel/FileSystem/Drivers**, that's why I choose two branches to work on in my curriculum: **Kernel Branch** and **DevOps Branch**, devops for me is a new world, I just discovered it and I want to learn a lot from this world, so far I discovered the great tool that I really liked **Docker** because it uses something called **cgroups/namespaces** introduced in **kernel v2.6** and I want to learn a lot about those features, I also learned a bit about tools: **Kubernetes**, **Vagrant** , **Ansible**, and I'm on my way to discover everything in this world 🌎.
 
-  **Projects** :   
+  **Projects** : 
     - [C++ Pool](https://github.com/oulhafiane/1337_42_CPP_POOL)
+    - [Darkly: This project is an introduction to cyber security in the field of the WWW.](https://github.com/oulhafiane/1337-42-Darkly)
+    - [Snow Crash: This project will be an introduction to cyber security](https://github.com/oulhafiane/1337_42_snow-crash-SECURITY/tree/master)
     - [Ft_Linux: Make your own linux distribution](https://github.com/oulhafiane/1337-42-ft_linux)
     - [Little-Penguin-Kernel-Modules: The start of a series of challenges inspired by Eudyptula. You will get acquainted with many points of Kernel development](https://github.com/oulhafiane/1337_42_little-penguin-1-kernel-modules)
     - [Inception-of-Things-Kubernetes: You will have to set up small clusters and discover the mechanics of continuous integration. At the end of this project you will be able to have a working cluster in docker and have a usable continuous integration for your applications.](https://github.com/oulhafiane/1337_42_Inception-of-Things-Kubernetes)
