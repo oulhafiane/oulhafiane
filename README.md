@@ -31,18 +31,18 @@ This is my story of discovering this beautiful world of technology:
   After 8 months of studying **Linux Commands/Shell/FileSystem/System Calls/Terminal Capabilities/Deep C Language** I successfully made two shells [Minishell](https://github.com/oulhafiane/1337-42-minishell) , [21sh](https://github.com/oulhafiane/1337-42-21sh), and contributed to [42sh](https://github.com/karimstm/42sh).  
   
   **Projects** :   
-    - [POOL: The “pool” is a 4-week immersion in the coding world. Just like a marathon runner, you will take a deep dive.](https://github.com/oulhafiane/1337-42-Pool)
-    - [LIBFT: Recoding of almost all standard C libraries (ex: PRINTF)](https://github.com/oulhafiane/1337-42-libft)
-    - [FillIt: is a project that let you discover and/or familiarize yourself with a recurring problematic in programming ](https://github.com/oulhafiane/1337-42-fillit)
-    - [The famous LS command](https://github.com/oulhafiane/1337-42-ls)
-    - [PHP Pool: will allow you to access basic web technologies](https://github.com/oulhafiane/1337-42-PHP-Rush00)
-    - [Minishell: you will get to the core of the Unix system and explore an important part of this system’s API](https://github.com/oulhafiane/1337-42-minishell)
-    - [FT_SELECT: Dealing with TERMCAPS](https://github.com/oulhafiane/1337-42-ft_select)
-    - [WasteToResources: A platform for connecting small sellers of waste (Restaurant, Coffee shop, Garage, Normal Person, ...) with Buyers who need this waste to be recycled (Recycling companies).](https://github.com/oulhafiane/WasteToResources)
-    - [WtrBlockChain: A small crypto coin for testing purpose has the functionality of creating and bidding on an auction](https://github.com/oulhafiane/WtrBlockChain)
-    - [WtrCoin: a Crypto Coin using Private Blockchain Hyperledger Sawtooth Transaction Processor : A user can create an auction from a starting price and a deadline, others can bid on it.](https://github.com/oulhafiane/WtrCoin)
-    - [21sh: Real functional shell](https://github.com/oulhafiane/1337-42-21sh)
-    - [42sh: A complete shell, which includes the key features a normal shell would have](https://github.com/karimstm/42sh)
+    - [POOL](https://github.com/oulhafiane/1337-42-Pool): The “pool” is a 4-week immersion in the coding world. Just like a marathon runner, you will take a deep dive.  
+    - [LIBFT](https://github.com/oulhafiane/1337-42-libft): Recoding of almost all standard C libraries (ex: PRINTF).  
+    - [FillIt](https://github.com/oulhafiane/1337-42-fillit): is a project that let you discover and/or familiarize yourself with a recurring problematic in programming.  
+    - [LS](https://github.com/oulhafiane/1337-42-ls): The famous LS command.  
+    - [PHP Pool](https://github.com/oulhafiane/1337-42-PHP-Rush00): will allow you to access basic web technologies.  
+    - [Minishell](https://github.com/oulhafiane/1337-42-minishell): you will get to the core of the Unix system and explore an important part of this system’s API.  
+    - [FT_SELECT](https://github.com/oulhafiane/1337-42-ft_select): Dealing with TERMCAPS.  
+    - [WasteToResources](https://github.com/oulhafiane/WasteToResources): A platform for connecting small sellers of waste (Restaurant, Coffee shop, Garage, Normal Person, ...) with Buyers who need this waste to be recycled (Recycling companies).   
+    - [WtrBlockChain](https://github.com/oulhafiane/WtrBlockChain): A small crypto coin for testing purpose has the functionality of creating and bidding on an auction.  
+    - [WtrCoin](https://github.com/oulhafiane/WtrCoin): a Crypto Coin using Private Blockchain Hyperledger Sawtooth Transaction Processor : A user can create an auction from a starting price and a deadline, others can bid on it.   
+    - [My Own Shell](https://github.com/oulhafiane/1337-42-21sh): Real functional shell.  
+    - [42sh](https://github.com/karimstm/42sh): A complete shell, which includes the key features a normal shell would have.  
 
 - 📈 **2019-2020** : I reached the internship project in my curriculum, then I joined [UM6P](https://twitter.com/UM6P_officiel) for a 6-month internship.  
     Here is a [video](https://www.youtube.com/watch?v=MoI36nmzWmo&feature=youtu.be) explaining the project I worked on.  
@@ -62,8 +62,9 @@ This is my story of discovering this beautiful world of technology:
 
   **Projects** : 
     - [C++ Pool](https://github.com/oulhafiane/1337_42_CPP_POOL)
-    - [Darkly: This project is an introduction to cyber security in the field of the WWW.](https://github.com/oulhafiane/1337-42-Darkly)
-    - [Snow Crash: This project will be an introduction to cyber security](https://github.com/oulhafiane/1337_42_snow-crash-SECURITY/tree/master)
-    - [Ft_Linux: Make your own linux distribution](https://github.com/oulhafiane/1337-42-ft_linux)
-    - [Little-Penguin-Kernel-Modules: The start of a series of challenges inspired by Eudyptula. You will get acquainted with many points of Kernel development](https://github.com/oulhafiane/1337_42_little-penguin-1-kernel-modules)
-    - [Inception-of-Things-Kubernetes: You will have to set up small clusters and discover the mechanics of continuous integration. At the end of this project you will be able to have a working cluster in docker and have a usable continuous integration for your applications.](https://github.com/oulhafiane/1337_42_Inception-of-Things-Kubernetes)
+    - [Darkly](https://github.com/oulhafiane/1337-42-Darkly): This project is an introduction to cyber security in the field of the WWW.  
+    - [Snow Crash](https://github.com/oulhafiane/1337_42_snow-crash-SECURITY/tree/master): This project will be an introduction to cyber security.  
+    - [My Own Linux Distribution](https://github.com/oulhafiane/1337-42-ft_linux): Automated the process of creation a Linux distribution with Vagrant.  
+    - [Eudyptula Challenges for Kernel Modules](https://github.com/oulhafiane/1337_42_little-penguin-1-kernel-modules): Series of challenges inspired by Eudyptula for Kernel development.  
+    - [Automation Deployment On AWS](https://github.com/oulhafiane/Automation-Deployment-On-AWS): Automated creation of PVC, Subnets, Instances, LoadBalancer and Scaling Group to AWS cloud, and deploying to it containers of Docker using Ansible.  
+    - [Container Orchestration using Kubernetes](https://github.com/oulhafiane/1337_42_Inception-of-Things-Kubernetes): Creating a cluster using K3s and having a usable continuous integration for applications using Argocd.
