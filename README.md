@@ -67,4 +67,5 @@ This is my story of discovering this beautiful world of technology:
     - [My Own Linux Distribution](https://github.com/oulhafiane/1337-42-ft_linux): Automated the process of creation a Linux distribution with Vagrant.  
     - [Eudyptula Challenges for Kernel Modules](https://github.com/oulhafiane/1337_42_little-penguin-1-kernel-modules): Series of challenges inspired by Eudyptula for Kernel development.  
     - [Automation Deployment On AWS](https://github.com/oulhafiane/Automation-Deployment-On-AWS): Automated creation of PVC, Subnets, Instances, LoadBalancer and Scaling Group to AWS cloud, and deploying to it containers of Docker using Ansible.  
-    - [Container Orchestration using Kubernetes](https://github.com/oulhafiane/1337_42_Inception-of-Things-Kubernetes): Creating a cluster using K3s and having a usable continuous integration for applications using Argocd.
+    - [Container Orchestration using Kubernetes](https://github.com/oulhafiane/1337_42_Inception-of-Things-Kubernetes): Creating a cluster using K3s and having a usable continuous integration for applications using Argocd.  
+    - [OpenStack-Ansible](https://github.com/Private-Cloud-Team/OpenStack-Ansible) Creating VirtualLab using Vagrant to Deploy OpenStack Cloud using Ansible.
