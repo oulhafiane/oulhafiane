@@ -52,8 +52,8 @@ This is my story of discovering this beautiful world of technology:
     and also it helps them in their research by giving them necessary tools to collect, cleanse, visualize and analyze data.  
 
   ***Links*** : 
-    - [Data & Research Backend](https://github.com/oulhafiane/Data-Research-Platform-Front-end)
-    - [Data & Research Frontend](https://github.com/oulhafiane/Data-Research-Platform/)
+    - [Data & Research Frontend](https://github.com/oulhafiane/Data-Research-Platform-Front-end)
+    - [Data & Research Backend](https://github.com/oulhafiane/Data-Research-Platform/)
     - [Data & Research Video](https://www.youtube.com/watch?v=MoI36nmzWmo&feature=youtu.be)
 
 - 😷 **2020(Corona)** : The school was closed for 7 months, the shop of my father and his partner had gone bankrupt, and they were about to sell it, then I bought his partner's share (50%) [SAZALUM](https://charika.ma/societe-sazalum-493799), then after the curfew (3 months), I built and relaunched the shop with my father, and it was done successfully 🤑.
